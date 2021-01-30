@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0eTiuaNEcvG6G+edUPiXRW81c0hvLRjInO9Js+4gWjFzTXEZ+13KfszUseadL4gYS3/Rt1Ks5YlS8OMoOlunAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Casper\\Desktop\\Yeni klasör\\Kamp\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

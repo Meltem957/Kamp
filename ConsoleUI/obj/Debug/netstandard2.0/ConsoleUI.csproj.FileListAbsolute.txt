@@ -1,0 +1,9 @@
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\bin\Debug\netstandard2.0\ConsoleUI.deps.json
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\bin\Debug\netstandard2.0\ConsoleUI.dll
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\bin\Debug\netstandard2.0\ConsoleUI.pdb
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.dll
+C:\Users\Casper\Desktop\Yeni klasör\Kamp\ConsoleUI\obj\Debug\netstandard2.0\ConsoleUI.pdb
