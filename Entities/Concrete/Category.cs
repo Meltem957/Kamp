@@ -7,7 +7,7 @@ namespace Entities.Concrete
 {
     public class Category:IEntity
     {
-        // Çıplak Kalmasın
+        // Çıplak Class Kalmasın
         public int CategoryId { get,set}
 
         public string CategoryName { get,set}

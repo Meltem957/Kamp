@@ -1,14 +1,15 @@
-﻿using DataAccess.Abstrack;
+﻿using DataAccess.Abstract;
 using Entities.Concrete;
-using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
 
 namespace DataAccess.Concrete.InMemory
 {
     public class InMemoryProductDal : IProductDal
     {
         List<Product> products;
+        private List<Product> _products;
+
         public InMemoryProductDal()
         {
             _products = new List<Product>
@@ -30,7 +31,7 @@ namespace DataAccess.Concrete.InMemory
             Product productToDelete = _products.SingleOrDefault(p => p.productId == product.ProductId);
             _products.Remove(product);
         }
-            public InMemoryProductDal()
+        public InMemoryProductDal()
         {
             _products = new List<Product>
             {

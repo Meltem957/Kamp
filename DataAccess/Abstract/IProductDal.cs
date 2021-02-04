@@ -1,24 +1,41 @@
 ﻿using Entities.Concrete;
 using System;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstrack
+namespace DataAccess.Abstract
 {
-    public interface IProductDal
+    public class IProductDal : IEntityRepository<Product>
     {
-        List<Product> GetAll();
-
-        void Add(Product product);
-
-        void Update(Product product);
-
-        void Delete(Product product);
-
-        public List<Product> GetAllByCategory(int categoryId);
+        public void Add(Product entity)
         {
-        return _products.Where(p => p.CategoryId == categoryId).ToList();
+            throw new NotImplementedException();
+        }
+
+        public void Delete(Product entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Product Get(Expression<Func<Product, bool>> filter)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Product> GetAllByCategory(int categoryId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Product entity)
+        {
+            throw new NotImplementedException();
         }
     }
-    
 }
